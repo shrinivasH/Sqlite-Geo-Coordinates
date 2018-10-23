@@ -12,6 +12,9 @@ public class LatLong {
     private String mLongitude;
 
 
+    public LatLong() {
+    }
+
     public LatLong(String mLatitude, String mLongitude) {
         this.mLatitude = mLatitude;
         this.mLongitude = mLongitude;
