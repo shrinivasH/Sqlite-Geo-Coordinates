@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Geo SqliteAssignment</string>
+    <string name="display">Display Lat-Long</string>
+    <string name="lat_long">Lat-Long :</string>
 </resources>
