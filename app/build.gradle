@@ -30,4 +30,8 @@ dependencies {
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.5.1'
     //fused location api
     implementation 'com.google.android.gms:play-services-location:11.8.0'
+    implementation 'com.android.support:design:27.1.1'
+    //
+    implementation 'com.firebase:firebase-jobdispatcher:0.8.5'
+
 }

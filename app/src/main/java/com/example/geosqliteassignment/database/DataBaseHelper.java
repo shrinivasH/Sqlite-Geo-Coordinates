@@ -52,7 +52,7 @@ public class DataBaseHelper extends SQLiteOpenHelper {
         LatLong mLatLong;
         // Select All Query
         String selectQuery = "SELECT  * FROM " + LatLong.TABLE_NAME + " ORDER BY " +
-                LatLong.COLUMN_ID + " DESC" + " LIMIT" + "1";
+                LatLong.COLUMN_ID + " DESC" + " LIMIT" + " 1";
         SQLiteDatabase db = this.getWritableDatabase();
         Cursor cursor = db.rawQuery(selectQuery, null);
 

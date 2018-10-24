@@ -1,5 +1,10 @@
 <resources>
-    <string name="app_name">Geo SqliteAssignment</string>
+    <string name="app_name">Assignment</string>
     <string name="display">Display Lat-Long</string>
     <string name="lat_long">Lat-Long :</string>
+    <string name="ok">OK</string>
+    <string name="lat_long_access_required">Permission required for lat-long</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="permission_granted">Permission Granted</string>
+    <string name="lat_long_not_available">Lat-Long not available</string>
 </resources>
